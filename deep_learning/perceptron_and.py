@@ -4,9 +4,6 @@ weight1 = 1.0
 weight2 = 1.0
 bias = -1.5
 
-
-# DON'T CHANGE ANYTHING BELOW
-# Inputs and outputs
 test_inputs = [(0, 0), (0, 1), (1, 0), (1, 1)]
 correct_outputs = [False, False, False, True]
 outputs = []
